@@ -1,0 +1,22 @@
+.bg-dark{
+    background-color: #000;
+    color: #fff;
+}
+
+.bg-gray {
+    background-color: #1e1e1e;
+    color: #fff;
+}
+
+.btn-bg {
+    background-color: #717171;
+}
+
+.desigination-txt {
+    color: yellow;
+}
+
+.link-section a {
+    color: #fff;
+    text-decoration: none;
+}

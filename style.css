@@ -1,0 +1,64 @@
+.container-fluid {
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    width: 400px;
+    min-height: 500px;
+    margin: 40px auto;
+    border-radius: 10px;
+}
+
+.overall-sections {
+    width:60%;
+    margin: auto;
+}
+
+.profile {
+    padding-top: 30px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 22px;
+}
+
+.profile img {
+    height: 120px;
+    width: 60%;
+    border-radius: 50%;
+    padding: 0px 40px;
+}
+
+.names {
+margin: 15px 0px;
+text-align: center;
+}
+
+.f-name {
+    margin: 0px 0px 8px 0px;
+    font-size: 16px;
+}
+
+.from {
+    font-size: 12px;
+}
+
+.desigination  {
+    text-align: center;
+    font-size: 12px;
+}
+.link-section {
+    margin: 14px 0px;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.link-button {
+       width: 100%;
+    margin: 5px;
+    text-align: center;
+    padding: 6px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
